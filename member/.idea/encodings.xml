@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/member-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/member-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/member-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/member-logging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/member-mproot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/member-shop/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/member-tools/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/member-weixin/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

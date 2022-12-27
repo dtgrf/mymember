@@ -1,0 +1,8 @@
+774993396
+
+ :: Application Version::  ${yshop.version}
+ :: Spring Boot ::       ${spring-boot.version}
+
+
+
+

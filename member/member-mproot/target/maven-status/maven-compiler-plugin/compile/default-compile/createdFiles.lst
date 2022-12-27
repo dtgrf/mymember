@@ -1,0 +1,13 @@
+co\yixiang\common\mapper\CoreMapper.class
+co\yixiang\config\MetaHandler.class
+co\yixiang\common\service\impl\BaseServiceImpl.class
+co\yixiang\common\web\vo\Paging.class
+co\yixiang\config\MybatisConfig.class
+co\yixiang\common\entity\BaseEntity.class
+co\yixiang\common\web\param\OrderQueryParam.class
+co\yixiang\common\service\BaseService.class
+co\yixiang\annotation\Query$Type.class
+co\yixiang\common\utils\QueryHelpPlus$1.class
+co\yixiang\common\web\param\QueryParam.class
+co\yixiang\annotation\Query.class
+co\yixiang\common\utils\QueryHelpPlus.class

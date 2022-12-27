@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="member-weixin" />
+        <module name="member-tools" />
+        <module name="member-logging" />
+        <module name="member-admin" />
+        <module name="member-generator" />
+        <module name="member-mproot" />
+        <module name="member-shop" />
+        <module name="member-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="member" target="1.8" />
+      <module name="member-admin" target="8" />
+      <module name="member-common" target="8" />
+      <module name="member-generator" target="8" />
+      <module name="member-logging" target="8" />
+      <module name="member-mproot" target="8" />
+      <module name="member-shop" target="8" />
+      <module name="member-tools" target="8" />
+      <module name="member-weixin" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_STRING" value="-encoding UTF-8" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="member-admin" options="-parameters" />
+      <module name="member-common" options="-parameters" />
+      <module name="member-generator" options="-parameters" />
+      <module name="member-logging" options="-parameters" />
+      <module name="member-mproot" options="-parameters" />
+      <module name="member-shop" options="-parameters" />
+      <module name="member-tools" options="-parameters" />
+      <module name="member-weixin" options="-parameters" />
+    </option>
+  </component>
+</project>

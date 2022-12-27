@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/member.iml" filepath="$PROJECT_DIR$/member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/member-admin/member-admin.iml" filepath="$PROJECT_DIR$/member-admin/member-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/member-common/member-common.iml" filepath="$PROJECT_DIR$/member-common/member-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/member-generator/member-generator.iml" filepath="$PROJECT_DIR$/member-generator/member-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/member-logging/member-logging.iml" filepath="$PROJECT_DIR$/member-logging/member-logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/member-mproot/member-mproot.iml" filepath="$PROJECT_DIR$/member-mproot/member-mproot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/member-shop/member-shop.iml" filepath="$PROJECT_DIR$/member-shop/member-shop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/member-tools/member-tools.iml" filepath="$PROJECT_DIR$/member-tools/member-tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/member-weixin/member-weixin.iml" filepath="$PROJECT_DIR$/member-weixin/member-weixin.iml" />
+    </modules>
+  </component>
+</project>

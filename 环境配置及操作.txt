@@ -1,0 +1,16 @@
+环境：
+maven 3.6.3
+jdk 1.8
+redis 3.0
+mysql 8.0
+vue 2
+nodejs 14.15
+操作：
+新建数据库任意命名，再执行sql文件
+在member-admin模块下resources中修改application-dev.yml文件，修改jdbc url为自己的
+下载好nodejs也就自带安装npm通过npm安装vue，前端文件夹目录下执行npm run install下载包文件，
+再npm run dev运行
+
+注意：
+邮件模块将邮箱 密码 用户名改为自己的然后就可以用自己的邮箱账号发送邮件，
+发送优惠券、商品、积分都需要这个模块给用户发消息
